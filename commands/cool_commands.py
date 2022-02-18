@@ -11,7 +11,7 @@ class cool_commands(commands.Cog):
 
     @client.command()
     async def sendtime(self, ctx):
-        print(datetime.now())
+        print(datetime.now() + " is the time")
         await ctx.send(datetime.now())
 
     @client.command()    
