@@ -17,4 +17,4 @@ for cog_file in cog_files:
     client.load_extension(cog_file)
     print("%s has loaded! " % cog_files)
 
-client.run('OTM5NjE3NDcxNzc2ODM3NzAy.Yf7c9g.YjxT24Wfr4LaBL1DGl_-FKUNHYA')
+client.run('god i love cute anime girls')
